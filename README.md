@@ -1,5 +1,7 @@
 # Prompt Forge
 
+**[Try it live →](https://n4vvii.github.io/prompt-forge/)**
+
 Prompt Forge is a browser-only React app that turns rough requirements, code notes, and selected project files into structured prompts for AI coding assistants.
 
 ## Features
@@ -28,3 +30,7 @@ The app is configured for GitHub Pages. During GitHub Actions builds, Vite autom
 ## Deployment
 
 Push to `main` and enable GitHub Pages with **GitHub Actions** as the source.
+
+## License
+
+MIT License. See [LICENSE](LICENSE) for details.
